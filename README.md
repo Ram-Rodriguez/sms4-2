@@ -2,6 +2,7 @@
 
 
 ## First-time setup:
+1. `composer install`
 1. Paki run po muna yung DB_SETUP.sql sa inyong mga respective SQL workbenches kung gusto i-run locally
     then hingiin na lang kay Hannah yung .env hehe
 
